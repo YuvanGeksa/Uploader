@@ -18,8 +18,6 @@
 
 ---
 
-## Preview
-
 <p align="center">
   <video src="https://files.catbox.moe/qvj2sw.mp4" autoplay loop muted playsinline width="600"></video>
 </p>
